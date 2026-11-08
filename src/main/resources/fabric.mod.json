@@ -6,9 +6,9 @@
     "description": "meow",
     "authors": ["monnocat"],
     "contact": {
-        "homepage": "",
-        "sources": "",
-        "issues": ""
+        "homepage": "https://github.com/monnocat/MeowMod",
+        "issues": "https://github.com/monnocat/MeowMod/issues",
+        "sources": "https://github.com/monnocat/MeowMod"
     },
     "license": "MIT",
     "icon": "assets/meowmod/icon.png",
