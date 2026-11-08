@@ -1,0 +1,26 @@
+{
+    "schemaVersion": 1,
+    "id": "meowmod",
+    "version": "${version}",
+    "name": "MeowMod",
+    "description": "meow",
+    "authors": ["monnocat"],
+    "contact": {
+        "homepage": "",
+        "sources": "",
+        "issues": ""
+    },
+    "license": "MIT",
+    "icon": "assets/meowmod/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "main": ["dev.monnocat.MeowMod"],
+        "client": ["dev.monnocat.client.MeowModClient"]
+    },
+    "depends": {
+        "fabricloader": "*",
+        "minecraft": ">=26.1-",
+        "java": ">=25",
+        "fabric-api": ">=0.145.1+26.1"
+    }
+}
