@@ -3,7 +3,7 @@
     "id": "meowmod",
     "version": "${version}",
     "name": "MeowMod",
-    "description": "meow",
+    "description": "Plays a meow sound whenever someone says meow",
     "authors": ["monnocat"],
     "contact": {
         "homepage": "https://github.com/monnocat/MeowMod",
